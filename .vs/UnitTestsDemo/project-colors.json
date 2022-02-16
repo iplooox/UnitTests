@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a05c14d-36f8-4db2-9330-532d12287d0d": {
+      "ProjectGuid": "8a05c14d-36f8-4db2-9330-532d12287d0d",
+      "DisplayName": "WebSite",
+      "ColorIndex": 0
+    },
+    "b75f007f-0818-4ba7-a265-a867e5bb411f": {
+      "ProjectGuid": "b75f007f-0818-4ba7-a265-a867e5bb411f",
+      "DisplayName": "unittestsdemo",
+      "ColorIndex": 1
+    },
+    "233d354c-0a98-4bc9-ab34-8bff90201cd6": {
+      "ProjectGuid": "233d354c-0a98-4bc9-ab34-8bff90201cd6",
+      "DisplayName": "WeatherForecast",
+      "ColorIndex": 2
+    },
+    "c3f33c9c-b0ca-475c-accf-3262b9634f2b": {
+      "ProjectGuid": "c3f33c9c-b0ca-475c-accf-3262b9634f2b",
+      "DisplayName": "WeatherForecast Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

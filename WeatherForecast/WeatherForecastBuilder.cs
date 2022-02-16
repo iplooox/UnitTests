@@ -62,7 +62,6 @@
                 ));
             }
 
-
             // There is a bug here can you find it? :)
             #region
             // One of the parameters is not being reset on build what happens when you build 2 forecasts with it?

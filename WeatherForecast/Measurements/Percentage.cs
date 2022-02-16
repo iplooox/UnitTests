@@ -11,7 +11,7 @@
         public int Integer => (int)decimal.Round(Decimal);
         public override string ToString()
         {
-            return $"{Integer}%";
+            return $"{Decimal}%";
         }
     }
 }

@@ -1,0 +1,15 @@
+.vs/*
+WeatherForecast/obj/*
+WeatherForecast/bin/*
+WeatherForecast Tests/bin/*
+WeatherForecast Tests/obj/*
+WeatherForecast Tests/obj/Debug/*
+WeatherForecast Tests/obj/project.nuget.cache
+WeatherForecast Tests/obj/Debug/net6.0/WeatherForecast Tests.GeneratedMSBuildEditorConfig.editorconfig
+WeatherForecast Tests/obj/Debug/net6.0/WeatherForecast Tests.csproj.AssemblyReference.cache
+WeatherForecast Tests/obj/Debug/net6.0/WeatherForecast Tests.assets.cache
+WeatherForecast Tests/obj/WeatherForecast Tests.csproj.nuget.dgspec.json
+WeatherForecast Tests/obj/project.nuget.cache
+WeatherForecast Tests/obj/project.assets.json
+WeatherForecast/obj/Debug/net6.0/WeatherForecast.assets.cache
+.vs/UnitTestsDemo/v17/.suo
